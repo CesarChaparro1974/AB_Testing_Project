@@ -33,7 +33,7 @@ The file hypotheses_us.csv contains nine hypotheses on boosting an online store'
 - Applyed the ICE framework to prioritize hypotheses. Sorted them in descending order of priority.
 - Applyed the RICE framework to prioritize hypotheses. Sorted them in descending order of priority.
 - Showed how the prioritization of hypotheses changes when I use RICE instead of ICE. Provided an explanation for the changes.
-- 
+  
 ### Part 2. A/B Test Analysis
 #### Task:
 - Graph cumulative revenue by group. Made conclusions and conjectures.
