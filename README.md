@@ -1,3 +1,5 @@
+![Alt Text](assets/AB_Testing.png)
+
 # Project description
 
 ## Overview
