@@ -1,6 +1,6 @@
 ![Alt Text](assets/AB_Testing.png)
 
-# Project description
+# A/B Testing Project description
 
 ## Overview
 * I am an analyst at a big online store. Together with the marketing department, I've compiled a list of hypotheses that may help boost revenue. 
